@@ -1,2 +1,2 @@
 # FirstRepo
-Test epository for tutorial purposes
+Test repository for tutorial purposes
